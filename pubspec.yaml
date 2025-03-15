@@ -12,6 +12,9 @@ dependencies:
     sdk: flutter
   eventify: ^1.0.0
   fluttertoast: ^8.0.7
+    git:
+      url: https://github.com/paulpjoby/FlutterToast.git
+      ref: master
   package_info_plus: ^4.0.1
 
 dev_dependencies:
