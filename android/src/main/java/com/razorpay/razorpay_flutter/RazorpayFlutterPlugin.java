@@ -2,8 +2,6 @@ package com.razorpay.razorpay_flutter;
 
 import androidx.annotation.NonNull;
 
-import org.json.JSONException;
-
 import java.util.Map;
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
